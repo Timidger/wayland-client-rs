@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Compositor",""],["DataDeviceManager",""],["Output",""],["Seat",""],["Shell",""],["Shm",""],["SubCompositor",""]]});
